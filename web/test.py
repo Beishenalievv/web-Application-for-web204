@@ -1,6 +1,4 @@
-"""test utilities
-(part of web.py)
-"""
+
 import unittest
 import sys, os
 import web
