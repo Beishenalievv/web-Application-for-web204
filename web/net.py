@@ -1,7 +1,4 @@
-"""
-Network Utilities
-(from web.py)
-"""
+
 
 __all__ = [
   "validipaddr", "validip6addr", "validipport", "validip", "validaddr",
