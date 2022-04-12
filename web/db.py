@@ -1,7 +1,4 @@
-"""
-Database API
-(part of web.py)
-"""
+
 
 __all__ = [
   "UnknownParamstyle", "UnknownDB", "TransactionError", 
