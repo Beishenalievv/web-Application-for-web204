@@ -1,7 +1,3 @@
-"""
-Session Management
-(from web.py)
-"""
 
 import os, time, datetime, random, base64
 import os.path
