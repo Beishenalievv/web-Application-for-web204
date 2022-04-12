@@ -1,7 +1,3 @@
-"""
-Web API (wrapper around WSGI)
-(from web.py)
-"""
 
 __all__ = [
     "config",
